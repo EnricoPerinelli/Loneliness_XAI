@@ -1,16 +1,16 @@
 Research Synthesis: Predictors of loneliness at school: An Explainable Artificial Intelligence approach on a large-scale cross-cultural assessment
 
 
-Simone Zasso$^\mathrm{a}$, Lavinia De Marco$^\mathrm{b}$, Stefania Sette$^\mathrm{b}$, Massimo Stella$^\mathrm{a,c}$, Enrico Perinelli$^\mathrm{a}$
+Simone Zasso 1, Lavinia De Marco 2, Stefania Sette 2, Massimo Stella 1,3, Enrico Perinelli 1
 
 
-$^\mathrm{a}$Department of Psychology and Cognitive Science, University of Trento, Italy
+1 Department of Psychology and Cognitive Science, University of Trento, Italy
 
 
-$^\mathrm{b}$Department of Developmental and Social Psychology, Sapienza University of Rome, Italy
+2 Department of Developmental and Social Psychology, Sapienza University of Rome, Italy
 
 
-$^\mathrm{c}$CogNosco Lab, Department of Psychology and Cognitive Science, University of Trento, Italy
+3 CogNosco Lab, Department of Psychology and Cognitive Science, University of Trento, Italy
 
 
 
